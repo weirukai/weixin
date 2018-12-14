@@ -1,0 +1,22 @@
+/* pages/component/index.wxss */
+
+.word {
+  font-family:"楷体";
+  font-size: 150%;
+  font-style:italic;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.button{
+
+  background-color: #abcdef;
+
+}
+.border
+{
+  background-color:  rgba(241, 241, 241, 0.925);
+height: 3em;
+
+
+}
